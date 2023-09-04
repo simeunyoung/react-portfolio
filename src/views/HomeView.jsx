@@ -21,7 +21,7 @@ const HomeView = () => {
             <Port />
             <Contact />
         </Main>
-        <Footer />
+        
     </>
     );
 };
