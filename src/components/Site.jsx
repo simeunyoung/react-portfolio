@@ -30,7 +30,7 @@ const siteText = [
         // view: "https://port2023-vue.netlify.app",
         info: [
             "site coding",
-            "production period : two days",
+            "production period : one days",
             "use stack : HTML5/CSS3, Scss Variable, react",
         ],
     },
