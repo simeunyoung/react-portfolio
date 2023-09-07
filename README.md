@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# IMG 만들기
+![img](https://github.com/simeunyoung/react-portfolio/assets/93626945/e67399f8-4136-4f11-99aa-6f5c59ed3b0b)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
