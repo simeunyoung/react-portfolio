@@ -1,6 +1,6 @@
 # 포트폴리오 만들기 프로젝트
 - 리엑트로 포트폴리오 만들기
-
+![port-main](https://github.com/simeunyoung/react-portfolio/assets/93626945/d072d262-a303-4136-a049-26eb3584fe46)
 ## 사용 스택
 - react(https://ko.legacy.reactjs.org/) 를 사용하여 사이트를 번들링하고 관리합니다.
 - gsap(https://greensock.com/gsap) 를 이용하여 패럴랙스 효과를 줍니다.
